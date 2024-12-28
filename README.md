@@ -18,7 +18,7 @@ Users should be able to:
 ### Screenshot
 
 ![](/screen-shot/FireShot%20Capture%20Mobile-version.png)
-![](/screen-shot/desktop_version.png)
+![](/screen-shot/Desktop_Version.png)
 
 
 ### Links
